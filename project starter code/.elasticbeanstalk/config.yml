@@ -2,6 +2,10 @@ branch-defaults:
   main:
     environment: cd12099-Full-Stack-Apps-AWS-dev
     group_suffix: null
+environment-defaults:
+  cd12099-Full-Stack-Apps-AWS-dev:
+    branch: null
+    repository: null
 global:
   application_name: cd12099-Full-Stack-Apps-AWS
   branch: null
